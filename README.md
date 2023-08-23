@@ -10,8 +10,8 @@ Cadastro de textos a ser enviado, configuração de respostas, de acordo com a c
 ## Telas do Sistema
 
 
- Tela Inicial
- ![Tela Inicial](Apresentação/Tela inicial.png)
+Tela inicial
+ ![Tela inicial](Apresentação/tela_inicial.png)
 
  Assitente
  ![Assitente](Apresentação/assistente.png)

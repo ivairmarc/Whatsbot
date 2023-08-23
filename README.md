@@ -11,7 +11,7 @@ Cadastro de textos a ser enviado, configuração de respostas, de acordo com a c
 
 
  Tela Inicial
- ![Inicial](Apresentação/Tela inicial.png)
+ ![Tela Inicial](Apresentação/Tela inicial.png)
 
  Assitente
  ![Assitente](Apresentação/assistente.png)
